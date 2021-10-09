@@ -1,5 +1,7 @@
 # PlagueStealer
 
+## DO NOT USE THIS!!! I TAKE NO RESPONSIBILITY FOR ANY DAMAGE CAUSED
+
 ### How to use:
  - Make a Discord webhook (watch this if you dont know how: https://www.youtube.com/watch?v=fKksxz2Gdnc)
  - Download
