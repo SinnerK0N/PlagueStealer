@@ -1,4 +1,4 @@
-# PlagueStealer
+# PlagueStealer (OUTDATED)
 
 ## DO NOT USE THIS!!! I TAKE NO RESPONSIBILITY FOR ANY DAMAGE CAUSED
 
